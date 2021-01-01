@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DB_SistemaDeFerias", "DB_SistemaDeFerias\DB_SistemaDeFerias.ssmssqlproj", "{01E78C7C-E932-4768-A82E-D8F15B387E98}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Query", "Query\Query.ssmssqlproj", "{A1218737-1A59-4215-A2BF-B2F55D9456DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E78C7C-E932-4768-A82E-D8F15B387E98}.Default|Default.ActiveCfg = Default
+		{05C48E4F-1A54-4148-A645-382F82F6E422}.Default|Default.ActiveCfg = Default
+		{A1218737-1A59-4215-A2BF-B2F55D9456DF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D264522F-FD66-4AAC-B6D9-2CE37397DC62}
+	EndGlobalSection
+EndGlobal
